@@ -13,5 +13,12 @@ The data we provide has been adjusted by professionals. Of course, you can also 
 You can change the window length to implement multi-scale datasets.
 
 
-This work("Intelligent detection of railway tunnel lining anomalies using ground penetrating radar") is under review in the Journal of Applied Geophysics. If you use this dataset, please cite the github URL in your paper first. If our paper is accepted later, please cite our paper.
+This work(Pengfei Zheng, Anxue Zhang, Zhensheng Shi, Sen Wang, Yi'an Ma, Zhaodan Liu,
+TLAD-YOLO: Lightweight network for intelligent detection of railway tunnel lining anomalies using ground penetrating radar,
+Journal of Applied Geophysics,
+Volume 241,
+2025,
+105869,
+https://doi.org/10.1016/j.jappgeo.2025.105869
+) is published in the Journal of Applied Geophysics. If you use this dataset, please cite our paper.
 If you have any questions, please contact me via email(zhengpengfei_1994@163.com). Besides, if you are interested in my research, please contact me and collaborate.
